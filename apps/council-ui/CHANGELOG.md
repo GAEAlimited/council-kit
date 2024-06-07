@@ -1,5 +1,13 @@
 # council-ui
 
+## 0.0.4
+
+### Patch Changes
+
+- Updated dependencies [e742438]
+  - @delvtech/council-artifacts@0.1.0
+  - @delvtech/council-viem@0.1.0
+
 ## 0.0.3
 
 ### Patch Changes
